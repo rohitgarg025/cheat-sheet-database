@@ -10,11 +10,10 @@ An Awesome Database containing database of cheat sheets
 - If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 - To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
 - This year, the first 50,000 participants can earn a T-shirt.
+- You must specify the source of cheat sheet in order to give creadits to the creator.
 ---
 
 ## Steps to Contrbute to this Repository:
-
-## Getting Started 🤗:
 
 - Fork this repo (button on top)
 - Clone on your local machine
