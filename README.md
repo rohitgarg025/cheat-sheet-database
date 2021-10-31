@@ -1,5 +1,5 @@
 # cheat-sheet-database
-An Awesome Database containing database of cheat sheets
+An Awesome Database of Cheat Sheets
 
 ---
 
